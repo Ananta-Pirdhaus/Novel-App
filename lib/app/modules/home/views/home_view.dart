@@ -30,7 +30,7 @@ class _HomeViewState extends State<HomeView> {
     LocalNotificationManager().showNotification(
       id: 0,
       title: 'Novel App',
-      body: 'This is a test notification from Novel App',
+      body: 'This notification from Novel App',
     );
   }
 
